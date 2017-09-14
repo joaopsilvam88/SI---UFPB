@@ -1,0 +1,10 @@
+numUm = int(input("Digite um número: "))
+numDois = int(input("Digite um número: "))
+numTres = float(input("Digite um número: "))
+calcUm = ((numUm*2) * (numDois/2))
+calcDois = (numUm*3) + numTres
+calcTres = (numTres**3)
+print("%.2f" %calcUm)
+print("%.2f" %calcDois)
+print("%.2f" %calcTres)
+print("FIM")
