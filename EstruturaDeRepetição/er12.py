@@ -33,6 +33,9 @@ print(multOito)
 print(multNove)
 print(multDez)
 
+##Não está errado, porém o for está inutilizado nesse caso, o que demanda maior processamento (um processamento desnecessário),
+##note que se retirar o for o programa funciona da mesma forma.
+##A ideia do for na calculadora seria justamente para não atribuir uma variável para cada multiplicação.
 
     
    
