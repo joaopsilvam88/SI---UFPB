@@ -20,4 +20,4 @@ print("Menor nota: {}". format(menorNota))
 print("Media das notas: %.2f" %media)
 print("FIM")
 
-    
+## A forma de calcular a média do enunciado da questão não foi atendida.
