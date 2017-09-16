@@ -12,3 +12,5 @@ for i in range(0, num+1, 1):
 print("O fibonacci de {} é {}!". format(num, ult))
 print("FIM")
         
+##QUESTÃO ERRADA:
+##Não gera a fibonacci.
